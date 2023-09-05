@@ -1,0 +1,1 @@
+![CI](https://github.com/<baxarev>/<env>/actions/workflows/web.yml/badge.svg)
